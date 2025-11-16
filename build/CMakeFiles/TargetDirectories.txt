@@ -1,0 +1,3 @@
+/home/lino/lol_tracker/build/CMakeFiles/lol-tracker.dir
+/home/lino/lol_tracker/build/CMakeFiles/edit_cache.dir
+/home/lino/lol_tracker/build/CMakeFiles/rebuild_cache.dir

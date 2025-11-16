@@ -1,0 +1,14 @@
+[
+{
+  "directory": "/home/lino/lol_tracker/build",
+  "command": "/usr/bin/g++   -g -std=gnu++17 -o CMakeFiles/lol-tracker.dir/api/RiotAPI.cpp.o -c /home/lino/lol_tracker/api/RiotAPI.cpp",
+  "file": "/home/lino/lol_tracker/api/RiotAPI.cpp",
+  "output": "CMakeFiles/lol-tracker.dir/api/RiotAPI.cpp.o"
+},
+{
+  "directory": "/home/lino/lol_tracker/build",
+  "command": "/usr/bin/g++   -g -std=gnu++17 -o CMakeFiles/lol-tracker.dir/main.cpp.o -c /home/lino/lol_tracker/main.cpp",
+  "file": "/home/lino/lol_tracker/main.cpp",
+  "output": "CMakeFiles/lol-tracker.dir/main.cpp.o"
+}
+]

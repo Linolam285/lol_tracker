@@ -1,0 +1,1 @@
+/usr/bin/g++ -g "CMakeFiles/lol-tracker.dir/api/RiotAPI.cpp.o" "CMakeFiles/lol-tracker.dir/main.cpp.o" -o lol-tracker  /usr/lib/x86_64-linux-gnu/libcurl.so 
